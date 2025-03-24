@@ -1,0 +1,17 @@
+package ContaBancaria;
+
+import java.util.Scanner;
+
+public class ContaTerminal {
+	public static void main(String[] args) {
+		/**
+		 * TO DO:
+		 * 	- Conhecer e importar a classe Scanner
+		 *  - Exibir as mensagens para o nosso usuário
+		 *  - Obter pela classe Scanner os valores digitados no terminal
+		 *  - Exibir o log final
+		 */
+		
+		Scanner scanner = new scanner (System.in);
+	}
+}
